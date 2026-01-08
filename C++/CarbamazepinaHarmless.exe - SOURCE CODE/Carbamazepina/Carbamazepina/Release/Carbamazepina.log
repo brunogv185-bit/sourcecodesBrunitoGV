@@ -1,0 +1,49 @@
+﻿  Carbamazepina.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(1001): warning C4005: 'M_PI': macro redefinition
+  Carbamazepina.cpp(6): note: see previous definition of 'M_PI'
+Carbamazepina.cpp(94): warning C4552: '<': operator has no effect; expected operator with side-effect
+Carbamazepina.cpp(104): warning C4552: '<': operator has no effect; expected operator with side-effect
+Carbamazepina.cpp(109): warning C4552: '<': operator has no effect; expected operator with side-effect
+Carbamazepina.cpp(353): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Carbamazepina.cpp(376): warning C4244: '=': conversion from 'float' to 'BYTE', possible loss of data
+Carbamazepina.cpp(377): warning C4244: '=': conversion from 'float' to 'BYTE', possible loss of data
+Carbamazepina.cpp(378): warning C4244: '=': conversion from 'float' to 'BYTE', possible loss of data
+Carbamazepina.cpp(562): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Carbamazepina.cpp(826): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Carbamazepina.cpp(863): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Carbamazepina.cpp(1059): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Carbamazepina.cpp(1278): warning C4305: 'argument': truncation from '__int64' to 'DWORD'
+Carbamazepina.cpp(1278): warning C4309: 'argument': truncation of constant value
+Carbamazepina.cpp(1330): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Carbamazepina.cpp(1331): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Carbamazepina.cpp(1335): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1336): warning C4244: '-=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1337): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1303): warning C4101: 'hslcolor': unreferenced local variable
+Carbamazepina.cpp(1319): warning C4101: 'rgbquadCopy': unreferenced local variable
+Carbamazepina.cpp(1582): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Carbamazepina.cpp(1583): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+Carbamazepina.cpp(1587): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1588): warning C4244: '-=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1589): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1555): warning C4101: 'hslcolor': unreferenced local variable
+Carbamazepina.cpp(1571): warning C4101: 'rgbquadCopy': unreferenced local variable
+Carbamazepina.cpp(1853): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1854): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1855): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1831): warning C4101: 'hslcolor': unreferenced local variable
+Carbamazepina.cpp(1843): warning C4101: 'rgbquadCopy': unreferenced local variable
+Carbamazepina.cpp(1905): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1906): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1907): warning C4244: '+=': conversion from 'double' to 'BYTE', possible loss of data
+Carbamazepina.cpp(1883): warning C4101: 'hslcolor': unreferenced local variable
+Carbamazepina.cpp(1895): warning C4101: 'rgbquadCopy': unreferenced local variable
+Carbamazepina.cpp(2007): warning C4554: '>>': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating code
+c:\users\bruno\onedrive\documents\savedfiles\visual studio 2022 projects\database source code\carbamazepina\carbamazepina\carbamazepina.cpp(2164): warning C4715: 'WinMain': not all control paths return a value
+  33 of 44 functions (75.0%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Carbamazepina.vcxproj -> C:\Users\Bruno\OneDrive\Documents\Savedfiles\Visual Studio 2022 Projects\Database Source Code\Carbamazepina\Release\Carbamazepina.exe
+  Carbamazepina.vcxproj -> C:\Users\Bruno\OneDrive\Documents\Savedfiles\Visual Studio 2022 Projects\Database Source Code\Carbamazepina\Release\Carbamazepina.pdb (Full PDB)
